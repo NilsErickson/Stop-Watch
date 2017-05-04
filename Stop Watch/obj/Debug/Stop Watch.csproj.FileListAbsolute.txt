@@ -1,0 +1,9 @@
+X:\_MAIN\Programming\DigitalTimer\Stop Watch\Stop Watch\bin\Debug\Stop Watch.exe.config
+X:\_MAIN\Programming\DigitalTimer\Stop Watch\Stop Watch\bin\Debug\Stop Watch.exe
+X:\_MAIN\Programming\DigitalTimer\Stop Watch\Stop Watch\bin\Debug\Stop Watch.pdb
+X:\_MAIN\Programming\DigitalTimer\Stop Watch\Stop Watch\obj\Debug\Stop Watch.csprojResolveAssemblyReference.cache
+X:\_MAIN\Programming\DigitalTimer\Stop Watch\Stop Watch\obj\Debug\Stop_Watch.Form1.resources
+X:\_MAIN\Programming\DigitalTimer\Stop Watch\Stop Watch\obj\Debug\Stop_Watch.Properties.Resources.resources
+X:\_MAIN\Programming\DigitalTimer\Stop Watch\Stop Watch\obj\Debug\Stop Watch.csproj.GenerateResource.Cache
+X:\_MAIN\Programming\DigitalTimer\Stop Watch\Stop Watch\obj\Debug\Stop Watch.exe
+X:\_MAIN\Programming\DigitalTimer\Stop Watch\Stop Watch\obj\Debug\Stop Watch.pdb
